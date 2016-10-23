@@ -1,6 +1,6 @@
 ## Le jeu de l'oie
 
-### Jeu de l'oie en C#
+### Jeu de l'oie en C####
 
 Ce projet a été réalisé durant ma 1ère année d'IUT informatique à Clermont-Ferrand.
 
